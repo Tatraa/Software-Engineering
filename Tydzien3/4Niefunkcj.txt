@@ -1,0 +1,6 @@
+Niefunkcjonalne:
+
+	- Postawienie systemu w chmurze
+	- Przejrzyste UI
+	- Podobna szybkość podprogramów
+	- W razie problemu z jednym programem reszta powinna działać poprawnie
