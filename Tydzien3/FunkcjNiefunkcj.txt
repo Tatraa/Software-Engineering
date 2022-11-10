@@ -1,0 +1,15 @@
+Funkcjonalne:
+	
+	- Forma płatności
+	- Sposób dostarczenia (do domu / odbiór na miejscu)
+	- Minimalna kwota na darmową dostawe
+	- Zmiana czcionki
+	- Zmiana trybu wyświetlania (jasny / ciemny)
+
+Niefunkcjonalne:
+
+	- Bezpieczeństwo
+	- Szybkość
+	- Niezawodność
+	- Działać na systemach komórkowych (iOS / Android)
+	- Przestronne UI
