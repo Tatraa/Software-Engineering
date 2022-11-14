@@ -1,0 +1,15 @@
+Fukcjonalne:
+
+	Aplikacja działa dla użytkowników zalogowanych i niezalogowanych.
+	Możliwość skanowania kodu QR z telefonu
+	Użytkownicy zalogowani mają dostęp do sprawdzenia historii wydatków
+	Treść gazetki dnia ma być pobierana automatycznie z serwisów sieci supermarketów
+	Kolorystyka zgodna z stosowaną w innych serwisach firmy
+	
+
+Niefunkcjonalne:
+
+	Ma zajmować niewięcej jak 100MB
+	Posiadanie wersji dla smartfonów z systemem Android i iOS
+
+	
